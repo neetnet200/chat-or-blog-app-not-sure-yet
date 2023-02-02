@@ -1,0 +1,8 @@
+.navbar {
+    width: 100%;
+    background-color: darkslategray;
+    color: azure;
+    padding: 70px;
+    font-size: 5em;
+    font-family:Helvetica, sans-serif
+}
